@@ -64,15 +64,9 @@ The application handles various error scenarios:
 4. Changes are immediately persisted to localStorage
 5. Toast notifications provide feedback for all operations
 
-## Getting Started
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Start managing users!
-
 ## Technologies Used
 
-- Vanilla JavaScript (ES6+)
+- Vanilla JavaScript
 - HTML5
 - CSS3
 - Local Storage API
