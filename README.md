@@ -37,16 +37,16 @@ A web application for managing user data with CRUD operations and local storage 
 
 ## Screenshots
 
-![Main Interface](screenshots/main.png)
+![Main Interface](/public/screenshots/main.png)
 *Main interface with user table*
 
-![Edit Form](screenshots/update.png)
+![Edit Form](/public/screenshots/update.png)
 *Edit user form*
 
-![Notifications](screenshots/toast1.png)
+![Notifications](/public/screenshots/toast1.png)
 *Toast notifications*
 
-![Notifications](screenshots/toast2.png)
+![Notifications](/public/screenshots/toast2.png)
 *Toast notifications*
 
 ## Error Handling
