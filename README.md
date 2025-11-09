@@ -40,10 +40,13 @@ A web application for managing user data with CRUD operations and local storage 
 ![Main Interface](screenshots/main.png)
 *Main interface with user table*
 
-![Add/Edit Form](screenshots/form.png)
-*Add/Edit user form*
+![Edit Form](screenshots/update.png)
+*Edit user form*
 
-![Notifications](screenshots/toast.png)
+![Notifications](screenshots/toast1.png)
+*Toast notifications*
+
+![Notifications](screenshots/toast2.png)
 *Toast notifications*
 
 ## Error Handling
