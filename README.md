@@ -32,8 +32,7 @@ A web application for managing user data with CRUD operations and local storage 
 - Persistent storage using localStorage
 - Initial data loading from JSON file
 - Toast notifications for user feedback
-- Responsive table layout
-- Clean and modern UI design
+
 
 ## Screenshots
 
