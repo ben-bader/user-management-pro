@@ -43,7 +43,7 @@ A web application for managing user data with CRUD operations and local storage 
 *Edit user form*
 
 ![Notifications](/public/screenshots/toast1.png)
-*Toast notifications*
+
 
 ![Notifications](/public/screenshots/toast2.png)
 *Toast notifications*
